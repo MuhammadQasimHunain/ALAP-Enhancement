@@ -410,7 +410,7 @@ namespace TTS_server_alap_alpha_v1
                                 {
                                     ifInstruction = extractCondtionString(ifCond, '{', '}', isEIf);
                                 }
-                                catch (Exception ex)
+                                catch
                                 {
 
                                 }
@@ -446,7 +446,7 @@ namespace TTS_server_alap_alpha_v1
                             condtionString = extractCondtionString(mutatedaLine, '{', '}', isEIf);
                             isEIf = false;
                         }
-                        catch (Exception ex)
+                        catch
                         {
 
                         }
@@ -470,7 +470,7 @@ namespace TTS_server_alap_alpha_v1
                                     ifInstruction = extractCondtionString(ifCond, '{', '}', isEIf);
                                     isEIf = false;
                                 }
-                                catch (Exception ex)
+                                catch
                                 {
 
                                 }

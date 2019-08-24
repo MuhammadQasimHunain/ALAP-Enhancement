@@ -25,9 +25,6 @@ namespace TTS_server_alap_alpha_v1
         static List<string> keyList = new List<string>(lookupTable.Keys);
         public static string strAppendLatexDocument = "";
         public static bool isPDfAccMode = false;
-        static string currentVoice = "Microsoft David Desktop";
-        static int currentSpeed = 0;
-        static string focusedUIElement = "";
         static void Main(string[] args)
         {
             try
@@ -81,7 +78,7 @@ namespace TTS_server_alap_alpha_v1
                     {
                         bytesRead = nwStream.Read(buffer, 0, client.ReceiveBufferSize);
                     }
-                    catch (IOException e)
+                    catch
                     {
                         // break;
                     }

@@ -303,7 +303,7 @@ namespace TTS_server_alap_alpha_v1
                     aLine = handleFigures(aLine, ref parsedCode);
                 }
             }
-            catch (Exception ex) { }
+            catch { }
         }
 
         private string inlineEquationCheck(string aLine, ref string parsedCode, StringReader sourceCodeCSR, ref string noSpacesLine, ref string trimmedAline)
@@ -411,7 +411,7 @@ namespace TTS_server_alap_alpha_v1
                 }
                 return a2;
             }
-            catch (Exception ex)
+            catch
             {
                 return a2;
             }
@@ -1485,7 +1485,7 @@ namespace TTS_server_alap_alpha_v1
                                 {
                                     ifInstruction = extractCondtionString(ifCond, '{', '}', isEIf);
                                 }
-                                catch (Exception ex)
+                                catch
                                 {
 
                                 }
@@ -1520,7 +1520,7 @@ namespace TTS_server_alap_alpha_v1
                             condtionString = extractCondtionString(mutatedaLine, '{', '}', isEIf);
                             isEIf = false;
                         }
-                        catch (Exception ex) { }
+                        catch{ }
                         if (!String.IsNullOrEmpty(condtionString))
                         {
                             aLine = aLine.ToLower().Replace("\\eif", "");
@@ -1541,7 +1541,7 @@ namespace TTS_server_alap_alpha_v1
                                     ifInstruction = extractCondtionString(ifCond, '{', '}', isEIf);
                                     isEIf = false;
                                 }
-                                catch (Exception ex) { }
+                                catch { }
                                 if (!String.IsNullOrEmpty(ifInstruction))
                                 {
                                     aLine = aLine.ToLower().Replace(ifInstruction, ifInstruction + " else ");
@@ -2125,7 +2125,7 @@ namespace TTS_server_alap_alpha_v1
                 tableLastLine = aLine;
                 return aLine;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 rowCount = rowCount - 1;
                 return " ";

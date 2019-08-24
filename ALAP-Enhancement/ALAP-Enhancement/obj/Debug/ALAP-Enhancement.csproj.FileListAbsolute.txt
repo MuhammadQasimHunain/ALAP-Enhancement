@@ -109,11 +109,8 @@ C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\obj\Deb
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\obj\Debug\ALAP-Enhancement.csproj.CopyComplete
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\obj\Debug\ALAP-Enhancement.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\obj\Debug\ALAP-Enhancement.pdb
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\log4net.config
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\libmp3lame.32.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\libmp3lame.64.dll
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\favicon.png
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\styles.css
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\LatexDocument.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAudio.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAudio.Lame.dll
@@ -130,3 +127,6 @@ C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAu
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAudio.Vorbis.xml
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NVorbis.xml
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\LatexMath2MathML.pdb
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\log4net.config
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\favicon.png
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\styles.css

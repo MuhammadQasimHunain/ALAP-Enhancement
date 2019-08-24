@@ -35,7 +35,7 @@ namespace QuartzScheduler
                 // Display the command output.
                 Console.WriteLine(result);
             }
-            catch (Exception objException)
+            catch
             {
                 // Log the exception
             }
@@ -58,15 +58,7 @@ namespace QuartzScheduler
                 //Start the thread.
                 objThread.Start(command);
             }
-            catch (ThreadStartException objException)
-            {
-                // Log the exception
-            }
-            catch (ThreadAbortException objException)
-            {
-                // Log the exception
-            }
-            catch (Exception objException)
+            catch
             {
                 // Log the exception
             }

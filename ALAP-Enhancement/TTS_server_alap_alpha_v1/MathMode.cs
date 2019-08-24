@@ -277,7 +277,7 @@ namespace TTS_server_alap_alpha_v1
                         aLine = inlineEquationCheck(aLine, ref parsedCode, sourceCodeSR, ref noSpacesLine, ref trimmedAline);
                         miscellenousChecks(ref aLine, ref parsedCode, trimmedAline);
 
-                        parsedEquation = mathParsing(aLine, ref parsedCode);
+                        parsedEquation = MathParsing(aLine, ref parsedCode);
 
                         if (parsedEquation.Contains("\\\\")) //remove line break slashes
                         {
@@ -465,7 +465,7 @@ namespace TTS_server_alap_alpha_v1
                     {
                         if (!String.IsNullOrEmpty(equation))
                         {
-                            parsedEquation = mathParsing(equation, ref parsedCode);
+                            parsedEquation = MathParsing(equation, ref parsedCode);
                             parsedALine = parsedALine.Replace(equation, parsedEquation); //because strings are immutable
                         }
                     }
@@ -518,7 +518,7 @@ namespace TTS_server_alap_alpha_v1
         }
         #endregion
 
-        private string mathParsing(string mathEquation, ref string parsedCode)
+        private string MathParsing(string mathEquation, ref string parsedCode)
         {
             try
             {
@@ -1657,7 +1657,7 @@ namespace TTS_server_alap_alpha_v1
                                     ifInstruction = extractCondtionString(ifCond, '{', '}', isEIf);
                                     isEIf = false;
                                 }
-                                catch (Exception ex) { }
+                                catch (Exception) { }
                                 if (!String.IsNullOrEmpty(ifInstruction))
                                 {
                                     aLine = aLine.ToLower().Replace(ifInstruction, ifInstruction + " else ");
@@ -2241,7 +2241,7 @@ namespace TTS_server_alap_alpha_v1
                 tableLastLine = aLine;
                 return aLine;
             }
-            catch (Exception ex)
+            catch
             {
                 rowCount = rowCount - 1;
                 return " ";
