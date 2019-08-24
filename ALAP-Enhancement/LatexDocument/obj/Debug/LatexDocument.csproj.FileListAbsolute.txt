@@ -47,3 +47,9 @@ C:\Users\as\Documents\WebTexk\LatexDocument\obj\Debug\LatexDocument.csprojAssemb
 C:\Users\as\Documents\WebTexk\LatexDocument\obj\Debug\LatexDocument.csproj.CoreCompileInputs.cache
 C:\Users\as\Documents\WebTexk\LatexDocument\obj\Debug\LatexDocument.dll
 C:\Users\as\Documents\WebTexk\LatexDocument\obj\Debug\LatexDocument.pdb
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\bin\Debug\LatexDocument.dll
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\bin\Debug\LatexDocument.pdb
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\obj\Debug\LatexDocument.csprojAssemblyReference.cache
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\obj\Debug\LatexDocument.csproj.CoreCompileInputs.cache
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\obj\Debug\LatexDocument.dll
+C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexDocument\obj\Debug\LatexDocument.pdb

@@ -127,6 +127,3 @@ C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAu
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NAudio.Vorbis.xml
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\NVorbis.xml
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\LatexMath2MathML.pdb
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\log4net.config
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\favicon.png
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\ALAP-Enhancement\bin\styles.css
