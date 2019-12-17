@@ -39,6 +39,5 @@ C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.pdb
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csprojAssemblyReference.cache
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csproj.CoreCompileInputs.cache
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csproj.CopyComplete
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.pdb

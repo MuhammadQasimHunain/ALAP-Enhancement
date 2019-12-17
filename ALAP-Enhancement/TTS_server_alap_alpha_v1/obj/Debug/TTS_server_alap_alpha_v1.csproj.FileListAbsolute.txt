@@ -48,7 +48,6 @@ C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\TTS_server_alap_alpha_v1.exe
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\TTS_server_alap_alpha_v1.pdb
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\LatexMath2MathML.dll
-C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\log4net.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\nunit.framework.dll
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\bin\Debug\LatexMath2MathML.pdb
 C:\Users\as\Documents\ALAP-Enhancement\ALAP-Enhancement\TTS_server_alap_alpha_v1\obj\Debug\TTS_server_alap_alpha_v1.csprojAssemblyReference.cache
